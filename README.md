@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/hidotp/hidotp/blob/master/github-metrics.svg)
+![Metrics](https://github.com/hidotp/hidotp/blob/main/github-metrics.svg)
 
 
 <!--
