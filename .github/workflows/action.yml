@@ -19,7 +19,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_days: 14
           plugin_languages: yes 
-
+          plugin_languages_ignored: "Inform 7"
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
