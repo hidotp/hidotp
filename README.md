@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Metrics](https://github.com/hidotp/hidotp/blob/master/github-metrics.svg)
+
+
 <!--
 **hidotp/hidotp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
